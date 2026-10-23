@@ -1,6 +1,6 @@
 # Surveillance of Pesticide Residues in Ambient Air (France)
-**Streamlit Data Storytelling Dashboard — Individual Student Project**
-
+**Streamlit Data Storytelling Dashboard**
+**Live App:** [https://dashboard-pesticides-cnep.streamlit.app/](https://dashboard-pesticides-cnep.streamlit.app/)
 ## 1. Project Overview & Narrative Arc
 Unlike drinking water or food products, there is currently no regulatory threshold for pesticide residues in ambient air in France. This interactive web application analyzes the **National Exploratory Campaign for Pesticides (CNEP 2018–2019)** conducted by **Anses**, **Ineris**, **LCSQA**, and the **Atmo France (AASQA)** network.
 
